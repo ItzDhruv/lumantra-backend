@@ -9,7 +9,7 @@ const PORT = 3000;
 
 const allowedOrigins = [
   'http://localhost:3000',
-  'https://frontend-nine-sand-28.vercel.app'
+  'https://lumantra.vercel.app/'
 ];
 
 app.use(cors());
